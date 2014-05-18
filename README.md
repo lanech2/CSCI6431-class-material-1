@@ -3,7 +3,7 @@
 ## General Information
 
 * __Meeting Time__: 6:10 PM ~ 8:40 PM, Tuesdays and Thursdays
-* __Classroom__: Booz Allen Hamilton, Room 1059 Edwin building, 8283 Greensboro Dr.,  McLean, VA 22102
+* __Classroom__: Booz Allen Hamilton, One Dulles location
 
 ## Instructor Information
 
@@ -55,21 +55,22 @@ come talk to me before the exam.
 
 ## Course Schedule
 
-* Week 1, 5/28 - Lecture: Intro, Chapter 1
-* Week 1, 5/30 - Lecture: Chapter 2 / Project 1 Discussion
-* Week 2, 6/04 - Lecture: Chapter 3
-* Week 2, 6/06 - Lecture: Chapter 4
-* Week 3, 6/11 - Lecture: Chapter 5 / Project Q&A
-* Week 3, 6/13 - Lecture: Buffer day 
-* Week 4, 6/18 - Lecture: Review / Project 1 Due
-* Week 4, 6/20 - Midterm
-* Week 5, 6/25 - Lecture: Chapter 6 / Project 2 Discussion
-* Week 5, 6/27 - Lecture: Chapter 7
-* Week 6: 7/02 - Lecture: Chapter 8
-* Week 6: 7/04 - Holiday, no class
-* Week 7: 7/09 - Lecture: Review / Project Q&A
-* Week 7: 7/11 - Final Exam
-* Week 8: 7/16 - Project 2 Due
+* Week 1, 5/20 - Lecture: Intro, Chapter 1
+* Week 1, 5/22 - No Class
+* Week 2, 5/27 - No Class
+* Week 2, 5/29 - Lecture: Chapter 2
+* Week 3, 6/03 - Lecture: Chapter 3
+* Week 3, 6/05 - Lecture: Chapter 4
+* Week 4, 6/10 - Lecture: Chapter 5 / Project Q&A
+* Week 4, 6/12 - Lecture: Review / Project 1 Due
+* Week 5, 6/17 - Midterm
+* Week 5, 6/19 - Lecture: Chapter 6 / Project 2 Discussion
+* Week 6: 6/24 - Lecture: Chapter 7
+* Week 6: 6/26 - Lecture: Chapter 8
+* Week 7: 7/01 - Lecture: Buffer day
+* Week 7: 7/03 - Holiday, no class
+* Week 8: 7/08 - Bonus Presentations
+* Week 8: 7/10 - Final Exam
 
 ## Academic Integrity Policy
 
